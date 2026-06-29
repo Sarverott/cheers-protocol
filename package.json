@@ -1,0 +1,28 @@
+{
+  "name": "cheers-protocol",
+  "version": "1.0.0",
+  "description": "project for one from chains in cosmos ecosystem of usage physical cards with RFID chipsets and inspired by 3DS system for cosmos blockchain environment prepaid wallets for event period among members of community as federation od DAO. part of universal independence declaration ",
+  "keywords": [
+    "cheers"
+  ],
+  "homepage": "https://github.com/the-Apokryf/cheers-protocol#readme",
+  "bugs": {
+    "url": "https://github.com/the-Apokryf/cheers-protocol/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-Apokryf/cheers-protocol.git"
+  },
+  "license": "LGPL-2.1-or-later",
+  "authors": [
+    "Sett Sarverott A.A.B."
+  ],
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "task test"
+  }
+}
